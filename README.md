@@ -35,7 +35,7 @@ Here is a video walkthrough to showcase how it works: https://drive.google.com/f
     this application is covered by the The IBM License license
 
     ## Questions
-    To see more of my work and projects, visit my Github profile: https://github.com/johnbark855
+    To see more of my work and projects, [visit my Github profile.](https://github.com/johnbark855)
     If there are any questions you would like to ask, please contact my email:johnbark855@gmail.com
 
     
